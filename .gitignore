@@ -1,3 +1,7 @@
+# custom ignores
+quick_test/
+yolov8n.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
